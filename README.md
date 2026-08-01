@@ -5,13 +5,16 @@ The project demonstrates the complete analytics lifecycle, from raw data prepara
 ________________________________________
 📌 Project Objectives
 
-The primary objective of this project was to develop hands-on experience with a complete data analytics workflow by:
-•	Cleaning and preparing raw customer data using Python
-•	Performing exploratory data analysis (EDA)
-•	Loading processed data into a SQL database
-•	Writing SQL queries to answer business questions
-•	Building an interactive Power BI dashboard
-•	Summarizing findings through a business report and presentation
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/afe71483-27d5-45c1-a994-3f8b9af42218" />
+
 ________________________________________
 🛠️Tech Stack
 
